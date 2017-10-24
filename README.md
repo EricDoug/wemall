@@ -1,7 +1,7 @@
 # install
 
 - download and install mysql https://dev.mysql.com/downloads/mysql/
-- download and install http://nginx.org/en/download.html stable version
+- download and install mysql-installer-web-community-5.7.20.0.msi http://nginx.org/en/download.html 开发套件安装器（好东西）
 
 # 微商城
 
