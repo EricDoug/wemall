@@ -1,3 +1,8 @@
+# install
+
+- download and install mysql https://dev.mysql.com/downloads/mysql/
+- download and install http://nginx.org/en/download.html stable version
+
 # 微商城
 
 > 近期主要精力在开发[golang123](https://github.com/shen100/golang123)， wemall先暂停3周
